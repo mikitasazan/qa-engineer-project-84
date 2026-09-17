@@ -1,0 +1,36 @@
+---
+- summary: |
+    Фильтрация товаров по ключевому слову
+  status: pass
+
+- summary: |
+    Фильтрация товаров по цене
+  status: pass
+
+- summary: |
+    Открытие карточки товара
+  status: pass
+
+- summary: |
+    Проверка добавления товаров в корзину
+  status: pass
+
+- summary: |
+    Проверка адаптивности страницы
+  status: fail
+
+- summary: |
+    Проверка кроссбраузерности сайта
+  status: pass
+
+- summary: |
+    Фильтрация товаров по категории
+  status: pass
+
+- summary: |
+    Очистка фильтра «Категория»
+  status: fail
+
+- summary: |
+    Фильтрация товаров по цене, негативный сценарий
+  status: pass
